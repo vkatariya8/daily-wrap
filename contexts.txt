@@ -1,0 +1,13 @@
+
+lit
+music
+task
+idea
+journal
+emotion
+poetry
+science
+toread
+tea
+sleep
+taks

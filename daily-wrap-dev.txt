@@ -1,0 +1,7 @@
+Need to include a nice task system. But does that make the tasks part redundant?
+	todo.txt if required?
+Add notes via command line. It will be better than running it via these multiple open files in Sublime. 
+
+Add a function to add dates.
+
+09/04 : shifting to immediately write out notes into output file. Weird dict processing from Python is wasting my time.
